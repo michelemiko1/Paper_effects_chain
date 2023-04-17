@@ -1,4 +1,8 @@
+
 # Paper_effects_chain
+
+![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)
+
 
 Code of:
 - preprocessing: transofrm audio into log mel spectrograms
