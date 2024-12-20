@@ -3,9 +3,12 @@
 
 Listen to the samples of our new dataset here: [https://michelerossi1.github.io/guitar_dataset_examples/](https://michelerossi1.github.io/guitar_dataset_examples/)
 
-![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)
+<!-- ![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)  -->
+
+![effects_paper](https://github.com/user-attachments/assets/193a1c90-9967-41fc-bad9-ad2b6b930413)
 
 # Repository Overview  
+
 
 This repository contains the following files and folders:  
 
