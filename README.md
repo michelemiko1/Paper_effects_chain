@@ -5,7 +5,8 @@ Listen to the samples of our new dataset here: [https://michelerossi1.github.io/
 
 <!-- ![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)  -->
 
-![effects_paper](https://github.com/user-attachments/assets/193a1c90-9967-41fc-bad9-ad2b6b930413)
+![effects_paper_small](https://github.com/user-attachments/assets/27d12faf-332c-475d-9ae5-8fef90af628d)
+
 
 # Repository Overview  
 
