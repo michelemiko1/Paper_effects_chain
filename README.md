@@ -1,7 +1,7 @@
 
 # Automatic classification of chains of guitar effects through evolutionary neural architecture search
 
-Listen to the samples of our new dataset here: https://michelerossi1.github.io/guitar_dataset_examples/
+Listen to the samples of our new dataset here: [https://michelerossi1.github.io/guitar_dataset_examples/](https://michelerossi1.github.io/guitar_dataset_examples/)
 
 ![paper_effects](https://user-images.githubusercontent.com/61735529/232543661-e4938fa6-b574-4799-97c3-b3639ec8aacb.png)
 
